@@ -3,7 +3,7 @@
 + improved hotel scene script (@andrius) 
 + created plan for lightinig and modelling (@gesta)
 
-todo:
+**TODO**:
 suprograminti interakciją (laikrodis, camera capture, camera effect) (@bartosh, @minemarcius)
 padaryti Hotel sceną su teisingais rekvizitais ir teisingu apšvietimu (@gesta)
 
@@ -15,4 +15,4 @@ padaryti Hotel sceną su teisingais rekvizitais ir teisingu apšvietimu (@gesta)
 
 + kick-off meet (@andrius, @bartosh)
 
-TODO: script, sąmata, team
+**TODO**: script, sąmata, team
